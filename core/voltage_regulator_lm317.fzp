@@ -47,7 +47,7 @@
       <views>
         <breadboardView>
           <p layer="breadboard" svgId="connector0pin" legId="connector0leg"/>
-        </breadboardView>0
+        </breadboardView>
     <schematicView>
           <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
         </schematicView>
