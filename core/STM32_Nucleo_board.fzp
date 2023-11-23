@@ -1753,7 +1753,6 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
     </pcbView>
    </views>
   </connector>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  <connector type="female" name="RX" id="connector1147">
    <description>rx</description>
    <views>
