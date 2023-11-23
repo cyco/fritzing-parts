@@ -35,7 +35,7 @@
             </layers>
         </iconView>
     </views>
-    <connectors IgnoreTerminalPoints="true">
+    <connectors ignoreTerminalPoints="true">
       <connector id="pin1A" type="female" name="pin1A">
          <description>breadboard socket</description>
          <views>
