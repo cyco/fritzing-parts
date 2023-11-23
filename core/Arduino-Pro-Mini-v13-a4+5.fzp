@@ -116,7 +116,7 @@ The latest and greatest version of this board breaks out the ADC6 and ADC7 pins 
 </connector>
 <connector id='connector21' type='female' name='A5'>
 <description>A5</description><views>
-<breadboardView>ma
+<breadboardView>
 <p layer='breadboardbreadboard' svgId='connector21pin'/></breadboardView>
 <schematicView>
 <p layer='schematic' svgId='connector21pin' terminalId='connector21terminal'/></schematicView>
