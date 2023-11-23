@@ -20,7 +20,6 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
       <property name="tolerance" showInLabel="yes">&#177;5%</property>
     </properties>
     <taxonomy>discreteParts.resistor.220</taxonomy>
-    <description>A generic resistor</description>
     <spice><line>R{instanceTitle} {net connector0} {net connector1} {resistance}</line></spice>
 <views>
 <breadboardView>
