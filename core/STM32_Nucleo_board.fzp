@@ -10,7 +10,6 @@
   <property name="family">NucleoBoard</property>
 
   <property name="variant">STM32</property>
-  <url>http://www.freeformatter.com/xml-escape.html#ad-output</url>
  </properties>
 
  <description>The highly affordable STM32 Nucleo boards allow to try out new ideas and to quickly create prototypes with any STM32 MCU.
